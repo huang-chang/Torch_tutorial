@@ -17,5 +17,14 @@
 课程链接：[nn.Linear](https://zhuanlan.zhihu.com/p/691185729)
 
 ### softmax
-数学上的softmax、torch中如何定义的softmax，举例说明<br>
+numpy实现softmax，torch用法<br>
 课程链接：[softmax](https://zhuanlan.zhihu.com/p/691186731)
+
+### cross-entropy
+数学上的交叉熵、torch里的交叉熵，numpy、torch对比用法<br>
+课程链接：[cross-entropy](https://zhuanlan.zhihu.com/p/691193090)
+
+### DataLoader
+2维、3维数组(数据集) 在 batch size情况下 使用演示<br>
+课程链接：[DataLoader](https://zhuanlan.zhihu.com/p/691194254)
+
