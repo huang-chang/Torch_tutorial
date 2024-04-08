@@ -13,3 +13,9 @@
   - [tensor拼接](https://zhuanlan.zhihu.com/p/690658468)
 
 ### nn.Linear
+取Linear里的参数直接做矩阵运算、API运算，结果比对<br>
+课程链接：[nn.Linear](https://zhuanlan.zhihu.com/p/691185729)
+
+### softmax
+数学上的softmax、torch中如何定义的softmax，举例说明<br>
+课程链接：[softmax](https://zhuanlan.zhihu.com/p/691186731)
