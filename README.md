@@ -36,6 +36,12 @@ numpy实现softmax，torch用法<br>
 ### convolution
 - [torch/numpy-卷积](https://zhuanlan.zhihu.com/p/693768986)
 
+### pooling
+- [torch/numpy-池化](https://zhuanlan.zhihu.com/p/693769886)
+
+### position encoding
+- [正弦/余弦-位置编码](https://zhuanlan.zhihu.com/p/693769980)
+
 
 
 
