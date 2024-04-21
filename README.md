@@ -13,6 +13,10 @@
   - [tensor拼接](https://zhuanlan.zhihu.com/p/690658468)
   - [tensor转置](https://zhuanlan.zhihu.com/p/693768652)
 
+### 运算
+- [批量矩阵乘法](https://zhuanlan.zhihu.com/p/693768765)
+
+
 ### nn.Linear
 取Linear里的参数直接做矩阵运算、API运算，结果比对<br>
 课程链接：[nn.Linear](https://zhuanlan.zhihu.com/p/691185729)
