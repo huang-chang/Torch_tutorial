@@ -33,3 +33,12 @@ numpy实现softmax，torch用法<br>
 2维、3维数组(数据集) 在 batch size情况下 使用演示<br>
 课程链接：[DataLoader](https://zhuanlan.zhihu.com/p/691194254)
 
+### convolution
+- [torch/numpy-卷积](https://zhuanlan.zhihu.com/p/693768986)
+
+
+
+
+
+
+
